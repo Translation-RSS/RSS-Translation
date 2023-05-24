@@ -11,7 +11,7 @@
 
 ## 已转换翻译源
 
- - source001 [https://rsshub.app/telegram/channel/Artificial_intelligence_in](https://rsshub.app/telegram/channel/Artificial_intelligence_in) -> [Artificial_intelligence_in.xml](rss/Artificial_intelligence_in.xml)
+ - source001 [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/) -> [cloudflare_rss.xml](rss/cloudflare_rss.xml)
  - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
  - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
  - source004 [https://www.classicpress.net/blog/feed](https://www.classicpress.net/blog/feed) -> [classicpress_rss.xml](rss/classicpress_rss.xml)
