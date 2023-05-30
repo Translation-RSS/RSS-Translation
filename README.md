@@ -12,6 +12,6 @@
 ## 已转换翻译源
 
  - source001 [https://world.hey.com/dhh/feed.atom](https://world.hey.com/dhh/feed.atom) -> [dhh_rss.xml](rss/dhh_rss.xml)
- - source002 [https://blogs.windows.com/feed/](https://blogs.windows.com/feed/) -> [windows_rss.xml](rss/windows_rss.xml)
+ - source002 [https://blogs.windows.com/windowsexperience/feed/](https://blogs.windows.com/windowsexperience/feed/) -> [windows_rss.xml](rss/windows_rss.xml)
  - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
  - source004 [https://www.classicpress.net/blog/feed](https://www.classicpress.net/blog/feed) -> [classicpress_rss.xml](rss/classicpress_rss.xml)
